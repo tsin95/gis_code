@@ -23,8 +23,12 @@ y <- 2+2
 
 #Next, check the current branch in RStudio (and Git) is tracking a branch on the remote repo
 
+<<<<<<< HEAD
 test123
 
 testtest
 
 git push origin
+=======
+test
+>>>>>>> 1e4c08a25537c207c47327b245a27daa8ef12e19
